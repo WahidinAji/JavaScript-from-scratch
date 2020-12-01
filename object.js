@@ -19,3 +19,5 @@ fruit.price = 25000;
 console.log(fruit); //add keys pada object
 fruit.isSmall = false; //merubah isi values pada keys
 console.log(fruit); //menampilkan setelah diubah
+delete fruit.price;
+console.log(fruit); //delete keys
