@@ -1,12 +1,12 @@
 ## Kategori: Data Structure
-* - 1.
-    Anda memiliki array yang berisi 10 elemen. Bagaimana Anda menampilkan elemen ke-7?
-    - A. console.log(myArr[6])
+* 1.
+  Anda memiliki array yang berisi 10 elemen. Bagaimana Anda menampilkan elemen ke-7?
+  - A. console.log(myArr[6])
 
 
 ## Kategori: Data Structure
-* - 2.
-    Perhatikan potongan kode berikut:
+* 2.
+  Perhatikan potongan kode berikut:
 ```js
 const capital = {
     "Jakarta": "Indonesia",
