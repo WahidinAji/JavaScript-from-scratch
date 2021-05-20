@@ -23,11 +23,10 @@ console.log(addCounter());
 
 ## !Closure
 ```js
+let counter = 0;
+
 let add = () => {
-  	let counter = 0;
-    return ()=>{
-      return ++counter
-    };
+    return ++counter;
 }
 
 console.log(add());
