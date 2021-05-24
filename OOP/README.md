@@ -71,3 +71,11 @@ module.exports = {
   Animal, Rabbit, Eagle, myRabbit, myEagle,
 };
 ```
+
+## Rangkuman Materi
+Kita telah berada di akhir dari modul Object Oriented Programming. Mari kita uraikan materi yang sudah Anda pelajari.
+
+1. OOP merupakan paradigma yang berdasarkan pada konsep objek yang memiliki atribut serta dapat melakukan operasi atau prosedur tertentu.
+2. Terdapat 4 (empat) pilar dalam object oriented programming, antara lain: encapsulation, abstraction, inheritance, dan polymorphism.
+3. Class merupakan blueprint untuk mendefinisikan karakteristik dari sebuah objek.
+4. Object composition memungkinkan penyusunan kumpulan perilaku/method untuk menghindari pewarisan dan hirarki yang kompleks.
