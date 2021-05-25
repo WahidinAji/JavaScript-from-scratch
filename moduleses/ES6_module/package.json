@@ -1,0 +1,13 @@
+{
+  "name": "es6_module",
+  "version": "1.0.0",
+  "description": "export-import pada ES5 di JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Wahidin",
+  "license": "ISC"
+}
