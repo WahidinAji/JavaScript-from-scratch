@@ -1,0 +1,12 @@
+{
+  "name": "moduleses",
+  "version": "1.0.0",
+  "description": "practice export-import with nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"    
+  },
+  "author": "Wahidin",
+  "license": "ISC"
+}
