@@ -1,3 +1,4 @@
+## Kuis Functional Programming
 /**
  * TODO:
  * Buatlah variabel greatAuthors yang merupakan array
@@ -34,3 +35,11 @@ console.log(greatAuthors);
 ```js
 module.exports = { books, greatAuthors };
 ```
+
+
+## Rangkuman Materi
+Anda berada di akhir dari modul Functional Programming. Mari kita uraikan materi yang sudah Anda pelajari untuk mempertajam pemahaman.
+
+1. Anda sudah mengenal paradigma Functional Programming.
+2. Anda sudah mengenal konsep Pure Function, Immutability, dan Higher-Order Function pada paradigma Functional Programming.
+3. Anda sudah mencoba beberapa reusable function yang ada di JavaScript seperti array map, array filter, dan array forEach.
