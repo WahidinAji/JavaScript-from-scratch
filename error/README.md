@@ -16,3 +16,12 @@ Akhir blok try
 Akan tetap dieksekusi
 */
 ```
+
+## Rangkuman Materi
+Kita telah berada di akhir modul Error Handling. Pada modul ini kita mempelajari bagaimana menangani kemungkinan eror pada program agar tidak mengalami crash.
+
+- Beberapa poin yang sudah kita bahas di antaranya:
+
+1. Penggunaan sintaksis try-catch untuk menangani eror.
+2. Melemparkan eror sendiri yang tidak terdeteksi oleh JavaScript.
+3. Membuat kelas sendiri untuk menandai eror yang tidak tersedia di JavaScript.
