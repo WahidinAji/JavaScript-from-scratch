@@ -20,7 +20,7 @@ try {
     console.log(user.age);
 } catch (error) {
     if (error instanceof SyntaxError) {
-        console.log(`JSON Syntax Error: ${error.message}`);
+        
     } else if (error instanceof ValidationError) {
         console.log(`Invalid data: ${error.message}`);
     } else if (error instanceof ReferenceError) {

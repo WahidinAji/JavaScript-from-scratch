@@ -11,7 +11,7 @@ try {
     console.log(error.name);
     console.log(error.message);
 }
-
+ 
 console.log("\ncontoh lain dari mengetahui error lain selain validation\n");
 let json2 = '{ "name": "Yoda", "age": 20 }';
 try {
