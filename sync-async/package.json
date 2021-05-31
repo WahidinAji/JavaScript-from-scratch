@@ -1,0 +1,13 @@
+{
+  "name": "sync-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setTimeout.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node setTimeout.js"
+  },
+  "author": "aji",
+  "license": "ISC"
+}
