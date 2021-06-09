@@ -5,3 +5,7 @@ Beberapa hal yang telah kita pelajari, antara lain:
 
 1. Menangani proses asynchronous dengan callback.
 2. Menangani proses asynchronous dengan Promise.
+
+## onReject pada async-await
+
+tambahkan try-catch untuk untuk menangani onReject pada async-await
