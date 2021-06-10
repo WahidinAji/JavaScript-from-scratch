@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623293429588" clover="3.2.0">
-  <project timestamp="1623293429589" name="All files">
+<coverage generated="1623297191474" clover="3.2.0">
+  <project timestamp="1623297191475" name="All files">
     <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4" elements="22" coveredelements="21" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
     <file name="gradeCalculations.js" path="B:\JavaScript-from-scratch\testing\gradeCalculations.js">
       <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
