@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learn testing\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dautomated tenting",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Wahidin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
